@@ -1,0 +1,19 @@
+h2 {
+    font-family: Arial, sans-serif;
+    color: #34495e;
+    text-align: center;
+    margin: 10px 0 20px 0;
+}
+
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    text-align: center;
+    font-size: 1.2em;
+    padding: 5px 0;
+}
